@@ -15,6 +15,7 @@
 			<li><a href="mass.php">Mass and Weight</a></li>
 			<li><a href="speed.php">Speed</a></li>
 			<li><a href="temperature.php">Temperature</a></li>
+			<li><a href="mass.php">Bug Fix</a></li>
 		</ul>
 	</div>
 </body>
