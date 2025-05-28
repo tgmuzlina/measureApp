@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div id="main-content">
-		<div>Login <br></div>
+		<div>Sila daftar dulu sebelum login <br></div>
 		<h1>Measurement Conversion</h1>
 		<ul id="measurement-types">
 			<li><a href="length.php">Length and Distance</a></li>
