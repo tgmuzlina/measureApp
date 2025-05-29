@@ -19,7 +19,7 @@
 			<li><a href="temperature.php">Temperature</a></li>
 			<li><a href="mass.php">Bug Fix</a></li>
 			<a href="payment.php">
-  			<button>Login</button>
+  			<button>Payment</button>
 			</a>
 		</ul>
 	</div>
