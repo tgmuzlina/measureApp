@@ -16,8 +16,9 @@ body{
 }
 
 #main-content{
-	width: 500px;
-	margin: 0 auto; padding: 20px 0;
+	width: 350px;
+	margin: auto; 
+	padding: 20px 0;
 }
 
 h1{
@@ -28,8 +29,8 @@ h1{
 
 ul#measurement-types{
 	list-style-type: none;
-	margin: 1em 0;
-	padding: 0;
+	/* margin: 1em 0;
+	padding: 0; */
 }
 
 ul#measurement-types li{
@@ -85,4 +86,10 @@ form input[type="submit"]{
 form input[type="submit"]:hover{
 	color: white;
 	background: #FDB912;
+}
+
+.container{
+	background-color:#FFDCDC;
+	width: 400px;
+	margin: auto;
 }

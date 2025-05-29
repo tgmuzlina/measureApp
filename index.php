@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+	<div class="container">
 	<div id="main-content">
 		<div>Sila daftar dulu sebelum login <br></div>
 		<h1>Measurement Conversion</h1>
@@ -19,6 +20,7 @@
 			<li><a href="mass.php">Bug Fix</a></li>
 			<button>Login</button>
 		</ul>
+	</div>
 	</div>
 </body>
 </html>
