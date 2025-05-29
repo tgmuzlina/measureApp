@@ -35,7 +35,7 @@ if(isset($_POST['submit'])) {
           <label>From:</label>&nbsp;
           <input type="text" name="from_value" value="<?php echo $from_value; ?>" />&nbsp;
           <select name="from_unit">
-            <option value="square_inches"<?php if($from_unit == 'square_inches') { echo " selected"; } ?>>square inches</option>
+            <option value="square_inches"<?php if($from_unit == 'square_inches') { echo " "; } ?>>square inches</option>
             <option value="square_feet"<?php if($from_unit == 'square_feet') { echo " selected"; } ?>>square feet</option>
             <option value="square_yards"<?php if($from_unit == 'square_yards') { echo " selected"; } ?>>square yards</option>
             <option value="square_miles"<?php if($from_unit == 'square_miles') { echo " selected"; } ?>>square miles</option>
